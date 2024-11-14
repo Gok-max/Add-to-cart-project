@@ -8,7 +8,7 @@ Opens a modal to display and manage cart items.
 Supports quantity adjustments for items in the cart.
 Calculates and displays the total price of items in the cart.
 Responsive design for mobile and desktop.
-Open the application in your web browser (typically available at http://localhost:3000).
+Open the application in your web browser.
 Browse the list of products displayed on the homepage.
 Click the "Add to Cart" button to add products to the cart.
 Click the "Cart" button to open the cart modal and view added items.
